@@ -20,7 +20,7 @@ kubectl logs payment-service-7d9f8b-xk2p9 -n production --previous
 
 You type this:
 
-`Why is my payment service down?`
+> Why is my payment service down
 
 And the agent does the rest.
 
