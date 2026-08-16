@@ -169,12 +169,12 @@ Every action is logged for full traceability:
 Santosh Mahale -- AVP DevOps and Infrastructure Engineering
 
 - GitHub: https://github.com/santosh7676
-- LinkedIn: https://linkedin.com/in/santosh-mahale
+- LinkedIn: [https://linkedin.com/in/santosh-mahale](https://www.linkedin.com/in/santosh-mahale-31722718b) 
 - HackerNoon: https://hackernoon.com/u/santoshmahale
 
 ## Related Projects
 
-- ansible-ai-agent: https://github.com/rockygeekz/ansible-ai-agent
+- ansible-ai-agent: https://github.com/santosh7676/ansible-ai-agent
 
 ## License
 
